@@ -30,12 +30,7 @@ title: тэги
       {% if sorted_tag_array[0].size == 2 %}
         {% assign sorted_tag_size = sorted_tag_array[0] | slice: 1 %}
       {% endif %}
-      <a href="#{{ sorted_tag_array[1] | slugify }}" class="post-tag">
-      	<code class="highligher-rouge">
-      		{{sorted_tag_array[1]}}<small>&nbsp;×&nbsp;{{sorted_tag_size}}</small>
-      	</code>
-      	&nbsp;
-      </a>
+      <a href="#{{ sorted_tag_array[1] | slugify }}" class="post-tag"><code class="highligher-rouge">{{sorted_tag_array[1]}}<small>&nbsp;×&nbsp;{{sorted_tag_size}}</small></code></a>&nbsp;
     {% endfor %}
   </div>
   <br>
