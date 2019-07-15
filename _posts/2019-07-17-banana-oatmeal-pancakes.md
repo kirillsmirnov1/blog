@@ -9,4 +9,4 @@ tags: 	кукбук завтрак
 
 Очень просто, вкусно и сытно, рекомендую. 
 
-[img]({{site.url}}/assets/post_covers/banana-oatmeal-pancakes.jpg)
+![img]({{site.url}}/assets/post_covers/banana-oatmeal-pancakes.jpg)
