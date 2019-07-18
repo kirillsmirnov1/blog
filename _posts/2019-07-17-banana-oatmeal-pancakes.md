@@ -2,7 +2,7 @@
 layout: post
 title:  "Банановые оладушки"
 date:   2019-07-17 12:45:00 +0300
-tags: 	кукбук завтрак
+tags: 	кукбук завтрак готовка
 ---
 
 Благодаря [Embrace it](https://vk.com/id459150342), у нас с сестрой новый любимый завтрак — [банановые оладушки](https://docs.google.com/document/d/1uPAwCRPoZFogpuAVx76cErwqtQBkeEJbxAhNeXYB2LA/edit?usp=sharing).
