@@ -7,6 +7,8 @@ tags: 	кукбук завтрак ценное готовка
 
 Классные завтраки, соответствующие требованиям [кукбука]({{site.url}}/cookbook) — легко приготовить, вкусно есть.
 
+<!--excerpt-->
+
 # Горячий яичный бутерброд
 
 ![egg_cheese_sandwich]({{site.url}}/assets/cookbook_breakfasts/egg_cheese_sandwich.jpg)
