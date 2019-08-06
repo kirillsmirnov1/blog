@@ -9,7 +9,7 @@ tags: 	книги инструменты ценное
 
 Для меня [гугл-книги](https://play.google.com/books) служат облачной библиотекой. Есть приложения с функционалом получше, но ни одно из них не работает из любого браузера с той же лёгкостью, с какой это делают гугл-книги.
 
-![books]({{site.url}}/assets/post_covers/google-play-books.png)
+![books]({{site.url}}/assets/post_covers/google-play-books.PNG)
 
 <!--excerpt-->
 
