@@ -25,6 +25,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 excerpt_separator: <!--excerpt-->
 
+future: false
+show_drafts: false
+
 paginate: 10
 paginate_path: "/blog/page:num/"
 
