@@ -26,6 +26,7 @@ show_excerpts: true
 excerpt_separator: <!--excerpt-->
 
 show_drafts: false
+future: true
 
 paginate: 10
 paginate_path: "/blog/page:num/"
