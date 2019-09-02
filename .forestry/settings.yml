@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: _posts/, _drafts
   label: Posts without old vk
   create: all
   match: "**/*"
