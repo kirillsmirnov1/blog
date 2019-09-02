@@ -9,7 +9,7 @@ sections:
   label: Posts without old vk
   create: all
   match: "**/*"
-  exclude: _drafts/_old_posts/output/
+  exclude: _drafts/_old_posts/output/*
 - type: directory
   path: _drafts/_old_posts/output
   label: old vk posts
