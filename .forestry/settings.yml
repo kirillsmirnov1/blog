@@ -4,25 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: _drafts
-  label: Drafts without old vk
-  create: all
-  match: "**/*"
-  exclude: _drafts/_old_posts/output/*
-- type: directory
-  path: _drafts/_old_posts/output
-  label: old vk posts
-  create: all
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assets
+public_path: "/assets"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
