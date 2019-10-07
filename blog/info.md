@@ -1,6 +1,7 @@
 ---
 layout: default
 title: инфо
+show_in_header: true
 ---
 
 <img style="float: left;" src="{{site.url}}/assets/me.png" width="30%" hspace="20">
