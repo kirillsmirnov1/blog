@@ -1,0 +1,11 @@
+{% assign pages=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+
+{% if pages.size == 2 %}
+<div align="right" style="opacity: 0.5">
+    <em>{{ site.data.translations['differentLanguage'][page.lang] }}:&nbsp;</em>
+    {% for page in pages %}
+        <a href="{{ site.base-url }}{{ page.url }}" class="{{ page.lang }}">{{ site.data.languages[page.lang].icon }} {{ site.data.languages[page.lang].label }}</a>&nbsp;
+    {% endfor %}
+</div>
+<br/>
+{% endif %}
