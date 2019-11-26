@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_headless
 title: «Friends»
 show_in_header: false
 
