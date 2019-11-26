@@ -2,6 +2,9 @@
 layout: default
 title: «Друзья»
 show_in_header: true
+
+lang-ref: friends-app
+lang: ru
 ---
 
 ![feature_graphic]({{site.url}}/assets/friends-app/ru_feature_graphic.png)
