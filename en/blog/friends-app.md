@@ -88,6 +88,6 @@ If you think that «Friends» can make somebody's life better — give a sign.
 
 I'm eager to hear any feedback about my app.
 
-[E-mail](mailto:thegalden@gmail.com) • [Telegram](t.me/trulden)
+[E-mail](mailto:thegalden@gmail.com) • [Telegram](https://t.me/trulden)
 
 There is no iOS version yet. Wanna help?
