@@ -6,7 +6,8 @@ layout: default_headless
 # Расписание встреч книжного клуба «Пенумбра»
 
 <div align="right" style="opacity:0.5">
-	<em>За актуальность отвечает <a href="https://t.me/trulden">Кирюша</a> </em>
+	<em>За актуальность отвечает <a href="https://t.me/trulden">Кирюша</a> <br/>
+	<a href="https://www.livelib.ru/selection/1485649-penumbra-obsudila">Книги</a> что мы уже обсудили. </em>
 </div>
 
 <iframe 
