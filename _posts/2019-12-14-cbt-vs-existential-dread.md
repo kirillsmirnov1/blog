@@ -7,6 +7,8 @@ tags: 	рефлексия cbt экзистенциальный-ужас
 
 На днях меня снова посетил экзистенциальный ужас.
 
+![red-sun][0]
+
 Я ворочался под одеялком и не мог провалиться в сладкую негу без мыслей и страданий, ведь чёрная дыра бессмысленности жизни пожирала мою душу в очередной раз.
 
 Ранее я выплывал на [чистом энтузиазме][1], [творчестве][2] и поддержке близких. В этот раз на помощь мне пришла когнитивно-поведенческая терапия. 
@@ -119,6 +121,7 @@ _Жизнь беcсмысленна_
 
 	«Я ищу смысл только для себя» 
 
+[0]: https://lh3.googleusercontent.com/BdAWQPWuXSb4Me-m_M-1xIv68XY7PZOXtiMU8K_J2H2ePUrhFJigTNU9HiY6podmvrKZHRKuBjn2s_zr_u-RM-ww-ES83nTqrlvgdTbgLwPcxKu1c1e86pJJYc7RbdYLjyEthl6iggeaeyx6Rp5-JFH4SoAxG-ObKW5dXJ_uQbXNt3VVzYDdtMHAZxE3HwfySvHJevfD5exmWxBkXNWowA6yJx1xZLwz7qT2pJ52lOdRqQiKc2mQCdjuX6WiPa6tp251Z918xOjG77u5pgB-yW2vbPTwXIcwTczdoS3x1wK8vUDwa2NWQjrFI04zy1aEHPnvKDYwm-ZlctpTyvOHA6IzJRgfFhDuEW7f8AsTOqp4Ki8voMqPqzmjMe_D1ySLgh4Fui-nHPDQFMQ7lewIE1fNkouMn61pFLi2MMWLCJ-S3jyVfjBcFIhMk8iYmmjNUiyVuer-se-n73SIe3alVUvGtR8BkcRuPfaQujQXUaHde_jP_ugfuSj_apvHGo1XDX8TaaqrKOuwclz5pEZv_QLyXsFEKZJdZDn4YwqMNrt9YzapSdB6Q-3f_44CfKi3KF2mct9kyHGLXfThwSFq7Xl9M7Y-1q3SwO1eDIVwMnO19uXneY25aygrdZBeLNODJoV0mre7M_dCj-v-Q9KPmSj5y6C9a5ovhL9MFpwhAV_d0Z1C01C289DUNGpILzLiJgq5e6I1EjgtZRzL6MMvBpWS8znU-qiD-8pdxdQtWMl6=w971-h644-no
 [1]: {{site.url}}/void-of-meaning
 [2]: {{site.url}}/existential-shopping
 [3]: {{site.url}}/cognitive-distortions
