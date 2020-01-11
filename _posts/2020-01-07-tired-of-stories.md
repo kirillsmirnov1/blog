@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "title"
+title:  "Художка надоела"
 date:   2020-01-07
 tags: 	художка рефлексия
 ---
